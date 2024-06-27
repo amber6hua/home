@@ -6,6 +6,11 @@
   },
   {
     "icon": "Cloud",
+    "name": "免费图床",
+    "link": "https://img.rua.us.kg/"
+  },
+  {
+    "icon": "Cloud",
     "name": "CloudFlare",
     "link": "https://dash.cloudflare.com/"
   },
