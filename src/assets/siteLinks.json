@@ -15,6 +15,11 @@
     "link": "https://dash.cloudflare.com/"
   },
   {
+    "icon": "LaptopCode",
+    "name": "中国科学技术大学测速网站",
+    "link": "https://test.ustc.edu.cn/"
+  },
+  {
     "icon": "Cloud",
     "name": "LeanCloud",
     "link": "https://console.leancloud.app/"
