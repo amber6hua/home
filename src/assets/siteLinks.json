@@ -6,6 +6,11 @@
   },
   {
     "icon": "Cloud",
+    "name": "订阅转换",
+    "link": "https://sub.gs"
+  },
+  {
+    "icon": "Cloud",
     "name": "免费图床",
     "link": "https://img.rua.us.kg/"
   },
