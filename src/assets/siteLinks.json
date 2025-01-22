@@ -6,18 +6,23 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://uk.rua.us.kg"
-  },
-  {
-    "icon": "Cloud",
-    "name": "订阅转换",
-    "link": "https://sub.gs"
+    "name": "域名监测",
+    "link": "https://dck.rua.us.kg"
   },
   {
     "icon": "Cloud",
     "name": "免费图床",
     "link": "https://img.rua.us.kg/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Serv00保活",
+    "link": "https://sm.amber.us.kg/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "订阅转换",
+    "link": "https://sub.gs"
   },
   {
     "icon": "Cloud",
